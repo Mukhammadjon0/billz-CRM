@@ -1,0 +1,10 @@
+.input-base {
+  color: #4b5563;
+  background-color: #f9f9f9;
+  font-size: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.75rem;
+}
